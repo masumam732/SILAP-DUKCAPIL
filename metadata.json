@@ -1,0 +1,6 @@
+{
+  "name": "SILAP-DUKCAPIL HALBAR",
+  "description": "Sistem Informasi Persediaan Dinas Kependudukan dan Pencatatan Sipil Kabupaten Halmahera Barat",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
